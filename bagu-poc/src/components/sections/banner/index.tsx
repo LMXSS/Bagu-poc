@@ -1,4 +1,3 @@
-import banner from "@/assets/banner.jpg";
 import { Button } from "@/components/ui/button";
 import AnimatedDot from "./AnimatedDot";
 
